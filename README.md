@@ -1,4 +1,4 @@
-# chatgpt_system_prompt
+## chatgpt_system_prompt
 store all agent's system prompt
 
 <img src="bg.png" width="500px" />
